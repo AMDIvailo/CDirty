@@ -3,7 +3,7 @@ CDirty is old school text-based editor. At the moment is in ALPHA state.
 
 Requirements:  
 debian-based(apt):  
-!RUN AS ROOT!
+!RUN AS ROOT!  
 apt-get install cmake git make g++  
   
 open-suse/suse(zypper):  
